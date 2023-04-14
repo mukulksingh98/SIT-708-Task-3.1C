@@ -1,4 +1,4 @@
-package com.tamim.task31c;
+package com.mks.task31c;
 
 import androidx.appcompat.app.AppCompatActivity;
 
